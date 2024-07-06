@@ -46,7 +46,7 @@ let paddle2 = {
 
 };
 
-
+// function start 
 
 window.addEventListener("keydown", changeDirection);
 
